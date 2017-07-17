@@ -1,2 +1,1 @@
-Assignment  Complete Time
-    1           7.17 
+Assignment 1 Complete Time 7.17 
